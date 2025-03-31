@@ -698,7 +698,7 @@ def solver_21(email_id: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f"https://trebhuvansb.github.io/"
+    return f"https://23f2000599.github.io/TDS_W2_GIT/"
 
 
 def solver_22(email_id: str):
@@ -726,7 +726,7 @@ def solver_23(temp_dir: str, file_path: str, file_name: str, lightness_threshold
 
 def solver_24(temp_dir: str, file_path: str, file_name: str):
     ### Have to implement this later
-    return f'''https://vercel-tds-week2.vercel.app/api'''
+    return f'''https://q6-6sukei7l6-smritis18s-projects.vercel.app/api'''
 
 
 
@@ -775,12 +775,12 @@ def solver_25(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/actions_TDSWeek2'''
+    return f'''https://github.com/23f2000599/q7'''
     
 
 
 def solver_26(tag: str): #### Need to check later ####
-    return f'''https://hub.docker.com/repository/docker/trebhuvansb/py-hello/tags'''
+    return f'''https://hub.docker.com/repository/docker/23f2000599/py-hello/general'''
     
 
 def solver_27(temp_dir: str, file_path: str, file_name: str):
@@ -1376,7 +1376,7 @@ def solver_44(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/tds_scheduled_actions'''
+    return f'''https://github.com/23f2000599/TDS_WK3_Q8'''
 
 def solver_45(temp_dir: str, file_path: str, file_name: str, subject_whose_marks_to_be_calculated: str, marks_in_criterion_subject: int, criterion_subject: str, group_start_number: int, group_end_number: int):
     import tabula
